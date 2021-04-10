@@ -19,12 +19,12 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "",
+        "value": "1707757205:AAFtmGbQNIiCR4RIL6v7RKqfqx1sVwVBGew",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
-        "value": "",
+        "value": "1u5WZFgs80qACnvkDGbK-2A7h0hDQCFye",
         "required": true
       },
       "DOWNLOAD_DIR": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
-        "value": "",
+        "value": "1189504316",
         "required": true
       },
       "AUTO_DELETE_MESSAGE_DURATION": {
@@ -49,7 +49,7 @@
       },
       "IS_TEAM_DRIVE": {
         "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
-        "value": "",
+        "value": "True",
         "required": false
       },
       "USE_SERVICE_ACCOUNTS": {
@@ -59,17 +59,17 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "",
+        "value": "https://blue-meadow-3290.mohantyrebel.workers.dev",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "",
+        "value": "2188612",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "",
+        "value": "054985b9a81e152002945593d69e4e38",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -94,7 +94,7 @@
       },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
-        "value": "",
+        "value": "BQBeOedYXQgc6BTZxYuUaASLFn5BhczAUa_qMoLqdn9r_geIUUwzuBy-_gEjajgBDrxMc87P8wMjjcoXr-H4BHxy7dwYerBwAEHDVWPN9LIQauwhRwtuWbYplmwdbn97fiUacb7uCzYKVJYiRLJ2yrBwg5sKdwfdZlq4FQFA3du6VKr17tDwiJIGvGNsfwKr2FAU20ANzRFgcZkX7L_n2jnuxv191FRC0N6jnZoFAJoykMeihjZgaHDyGvwLYqAld-p-NmWE8TktaJK51d_RXBzdxNZ_TiLNcBQHlB0h_vJ0PUDiEfQZu9k9xYR9vqN_uJD4BDYrRk5G5_bU8LQXFC6mRuZlPAA",
         "required": true
       }
     },
